@@ -1,0 +1,8 @@
+{
+  "name": "storage-node",
+  "version": "1.0.0",
+  "main": "storageNode.js",
+  "dependencies": {
+    "ws": "^8.0.0"
+  }
+}

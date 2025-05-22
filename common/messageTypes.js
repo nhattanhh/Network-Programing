@@ -1,0 +1,14 @@
+module.exports = {
+  REGISTER_NODE: 'REGISTER_NODE',
+  STORE:         'STORE',
+  STORE_ACK:     'STORE_ACK',
+  RETRIEVE:      'RETRIEVE',
+  RETRIEVE_ACK:  'RETRIEVE_ACK',
+  DELETE:        'DELETE',
+  DELETE_ACK:    'DELETE_ACK',
+  LIST:          'LIST',
+  LIST_RESPONSE: 'LIST_RESPONSE',
+  UPLOAD:        'UPLOAD',
+  UPLOAD_ACK:    'UPLOAD_ACK',
+  DOWNLOAD:      'DOWNLOAD'
+};
