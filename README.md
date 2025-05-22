@@ -1,4 +1,13 @@
-# Multi-Node File Storage System
+# [C3] Multi-Node File Storage System
+
+## Team Members
+- **Vũ Nhật Anh - 22BA13036** 
+- **Bùi Quang Huy - 22BI13188** 
+- **Trần Anh Quốc - 22BA13266**
+- **Nguyễn Quang Anh - 22BA13023**
+- **Lê Việt Trung - 22BA13305**
+- **Vũ Quang Thành - 22BA13291**
+- **Nguyễn Quốc Khánh - 22BA13173**
 
 ## Architecture
 - **Index Server** (`index-server/`): manages file metadata, handles node registration, and oversees file replication.
