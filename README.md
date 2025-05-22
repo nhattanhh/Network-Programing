@@ -9,6 +9,8 @@
 - **Vũ Quang Thành - 22BA13291**
 - **Nguyễn Quốc Khánh - 22BA13173**
 
+## REPORT: [Report-NP-TopicC3.pdf](https://github.com/nhattanhh/Network-Programing/Report-NP-TopicC3.pdf)
+
 ## Architecture
 - **Index Server** (`index-server/`): manages file metadata, handles node registration, and oversees file replication.
 - **Storage Nodes** (`storage-node/`): self-register with the index server, store files in `data/`, and support storing, retrieving, and deleting files.
